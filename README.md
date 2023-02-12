@@ -1,12 +1,12 @@
 <h1 align="center">Welcome, I'm David Salvatella
-:construction_worker::hammer:</h1>
+:U+1F50B:</h1>
 <h3 align="center">A full-stack Blockchain dev in Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-alra-arteaga&label=Profile%20views&color=0e75b6&style=flat" alt="alex-alra-arteaga" /> </p>
 
-- Currently learning *Foundry, Typescript, The Graph & Ceramic Network*
+- Currently learning *Foundry, The Graph & Ceramic Network*
 
-- I’m looking to build on *a hardcore engineering business*
+- I am looking to expand a *pioneering technical enterprise.*
 
 <p align="left">
 </p>
