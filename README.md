@@ -72,7 +72,7 @@ Junior Software Developer focused on web3 & blockchain. Crafting innovative solu
 [<img src="https://github-profile-trophy.vercel.app/?username=xRozzo&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
 [<img src="https://github-readme-stats.vercel.app/api?username=xRozzo&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/xRozzo/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xRozzo&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Rozzo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/xRozzo/github-readme-stats)
+[![Rozzo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xRozzo=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/xRozzo/github-readme-stats)
 
 
 <!--
