@@ -67,9 +67,8 @@ Junior Software Developer focused on web3 & blockchain. Crafting innovative solu
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/david-salvatella/)
 </p>
 
-| ------------- | ------------- |
+| <a href="https://github.com/xRozzo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xRozzo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/xRozzo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRozzo&layout=compact&theme=buefy&hide_border=true" /></a> 
 [<img src="https://github-profile-trophy.vercel.app/?username=xRozzo&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-show_icons=true" />](https://github.com/xRozzo/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xRozzo&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Rozzo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xRozzo&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/xRozzo/github-readme-stats)
 
