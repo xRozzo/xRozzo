@@ -1,7 +1,5 @@
 ### Hi there, I'm [David Salvatella](https://xRozzo.github.io) 👋
 
-Junior Software Developer focused on web3 & blockchain. Crafting innovative solutions with my dev skills. Passionate about learning & growing.
-
 **My Reseach Interest**:
 - Blockchain
 - Decentralized Backend
@@ -61,9 +59,8 @@ Junior Software Developer focused on web3 & blockchain. Crafting innovative solu
 ## Connect with me:
 
 <p align = "center">
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/xRozzo)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/xRozzo) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/david-salvatella/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/xRozzo/)
 </p>
 
 <a href="https://github.com/xRozzo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xRozzo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a><a href="https://github.com/xRozzo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRozzo&layout=compact&theme=buefy&hide_border=true" /></a> 
