@@ -58,9 +58,15 @@
 
 ## Connect with me:
 
-<p align = "center">
-![<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/xRozzo)&nbsp; 
-![<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/xRozzo/)&nbsp;
+<p align="center">
+  <a href="https://twitter.com/xRozzo">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/xRozzo/">
+    <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />
+  </a>
+  &nbsp;
 </p>
 
 <a href="https://github.com/xRozzo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xRozzo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a><a href="https://github.com/xRozzo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRozzo&layout=compact&theme=buefy&hide_border=true" /></a> 
