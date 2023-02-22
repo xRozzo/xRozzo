@@ -40,7 +40,6 @@
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDb](https://img.shields.io/badge/mongodb-%2523150458.svg?style=for-the-badge&logo=pandas&logoColor=black)&nbsp;
 
 #### Tools and Technologies
