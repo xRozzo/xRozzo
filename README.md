@@ -11,6 +11,7 @@
 - Any collaboration work
 - Expanding a pioneering technical enterprise
 - Research internships
+  
 **Recent Update**:
 - **December 2022**: Binance Hackaton: 
     - Developed a decentralized application utilizing
