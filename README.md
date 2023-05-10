@@ -68,11 +68,6 @@ Contract Development.
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/mongodb-%2523150458.svg?style=for-the-badge&logo=pandas&logoColor=black)&nbsp;
-#### ML/DL
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-
 
 #### Tools and Technologies
 
