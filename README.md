@@ -1,9 +1,4 @@
-### Hi there, I'm [David Salvatella](https://xRozzo.github.io) 👋
-
-**My Reseach Interest**:
-- Blockchain
-- Decentralized Backend
-- Smart Contract Security
+### Hi there, I'm [David Salvatella]👋
 
  **I am open to**:
 
@@ -32,8 +27,6 @@
   <a href="" target="_blank" rel="noreferrer"></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
 
