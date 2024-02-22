@@ -15,7 +15,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40" style="background-color:white"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F374088%2Fsolidity&psig=AOvVaw1YubRI9z740FsvMqMbXzMD&ust=1708702724250000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiL4eijv4QDFQAAAAAdAAAAABAE" alt="solidity" width="40" height="40" style="background-color:white"/>
   </a>
   <a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
