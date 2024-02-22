@@ -1,4 +1,4 @@
-### Hi there, I'm [David Salvatella]👋
+### Hi there, I'm David Salvatella👋
 
  **I am open to**:
 
