@@ -3,14 +3,11 @@
 **My Reseach Interest**:
 - Blockchain
 - Decentralized Backend
-- Web3
 - Smart Contract Security
 
  **I am open to**:
 
-- Any collaboration work
-- Expanding a pioneering technical enterprise
-- Research internships
+- Full-time or Part-time roles.
   
 **Recent Update**:
 - **December 2022**: Binance Hackaton: 
