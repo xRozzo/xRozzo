@@ -7,7 +7,7 @@
 
  **I am open to**:
 
-- Full-time or Part-time roles.
+- Full-time or part-time roles.
   
 **Recent Update**:
 - **December 2022**: Binance Hackaton: 
