@@ -9,24 +9,6 @@
 
 - Full-time or part-time roles.
   
-**Recent Update**:
-- **December 2022**: Binance Hackaton: 
-    - Developed a decentralized application utilizing
-Chainlink VRF for fully random and trustless raffles
-on Twitch. Implemented cutting-edge technology
-to ensure fairness and transparency for all
-participants. Skills utilized: Decentralized
-Application Development, Chainlink VRF, Smart
-Contract Development.
-- **February 2023**: Service Web3 Provider Plataform (mvp)
-- **February 2023**: Epitech Spain eCommerce Hackathon winners:
-  - CS:GO skins marketplace with linkable skins-stickers dynamic using Racks E7L standard.
-- **March 2023**: Esade Legal Boost competition winner:
-  - LegalTech startup business plan with validating MVP (cleverSubscription).
-- **March 2023**: Esade and IE Universities Startup Hackathon winners:
-  - EdTech startup business plan with validating MVP.
-- **April 2023**: Context DAO and Arweave hackathon winners:
-  - Decentralized application for issue of certificates and diplomas
 
 ## Skills:
 
