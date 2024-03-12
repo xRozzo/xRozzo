@@ -3,6 +3,7 @@
  **I am open to**:
 
 - Full-time or part-time roles.
+- CV: https://drive.google.com/file/d/1MoOvEb5UOxQM-mkyzO8logSFF1v3VDpq/view?usp=sharing
   
 
 ## Skills:
