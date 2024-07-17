@@ -3,7 +3,7 @@
  **I am open to**:
 
 - Full-time or part-time roles.
-- See my <a href="https://drive.google.com/file/d/1MoOvEb5UOxQM-mkyzO8logSFF1v3VDpq/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>.
+- See my <a href="https://drive.google.com/file/d/1XxnzIHJCWYdrouHGMXXhSevOWkeh6Pwb/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>.
 
   
 
