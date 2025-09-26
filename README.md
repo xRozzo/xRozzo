@@ -1,11 +1,6 @@
 ### Hi there, I'm David Salvatella👋
 
- **I am open to**:
 
-- Full-time or part-time roles.
-- See my <a href="https://drive.google.com/file/d/1XxnzIHJCWYdrouHGMXXhSevOWkeh6Pwb/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>.
-
-  
 
 ## Skills:
 
